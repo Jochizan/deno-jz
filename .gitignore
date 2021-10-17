@@ -1,0 +1,10 @@
+.vs
+.vim
+.idea
+.vscode
+
+node_modules
+
+build
+dist
+
